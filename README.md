@@ -24,6 +24,9 @@ What is Rate of Ecological Footprint ?
 
 Rate of Ecological Footprint is an individual's responsibility to the environment. Therefore, even if a crowded country is unclean, the individual's responsibility for one individual in that country may be more responsible for someone who lives in a cleaner country than the less populated and dirty.
 
+![Rplot03](https://user-images.githubusercontent.com/47992417/60985470-385a7000-a346-11e9-9453-ad8e2e8656fc.png)
+
+
 
 Conclusion
 
